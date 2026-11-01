@@ -1,6 +1,31 @@
 # COS-201--Computer-Programming-1
 Practical Exercises for COS 201 Computer Programming
-WEEK03
+
+# COS 201 — Computer Programming I
+## Student InformationWEEK03
+Name: OYELEWE ADEOYE ENIOLA
+- Matriculation Number: 25/17847
+- Programme: CYBER SECURITTY
+- Course: COS 201 Computer Programming.
+- ## Week: 2
+## Practical Title
+Development Environment and First Java Program
+## Objective
+To configure the Java development environment, write a simple
+Java program, compile it, execute it and submit the source code
+through GitHub.
+## Tools Used
+- Java Development Kit (JDK)
+- Visual Studio Code
+- GitHub Desktop
+- GitHub
+## Files
+- `week02/HelloWorld.java`: Java source code for the practical.
+## How to Run
+1. Open a terminal in the `week02` directory.
+2. Compile the program using `javac HelloWorld.java`.
+3. Run the program using `java HelloWorld`.
+
 ## Week 3: Variables, Data Types, Expressions and Input/Output
 ### Objectives
 - Declare and initialize Java variables.
